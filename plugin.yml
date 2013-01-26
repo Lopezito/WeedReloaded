@@ -1,0 +1,11 @@
+name: Weed-Reloaded
+main: com.gmail.lopezitospriter.weedreloaded.Weed
+version: 2.0
+website: http://www.xminecraft.net
+author: Lopezito
+database: false
+description: Agrega droga a los servidores de Bukkit // Add drug on Bukkit servers.
+permissions:
+    weed.use:
+        description: Puede usar el plugin
+        default: op
